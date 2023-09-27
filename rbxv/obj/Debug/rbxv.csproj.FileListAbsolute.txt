@@ -1,0 +1,14 @@
+C:\Users\luke\source\repos\rbxv\rbxv\bin\Debug\rbxv.exe.config
+C:\Users\luke\source\repos\rbxv\rbxv\bin\Debug\rbxv.exe
+C:\Users\luke\source\repos\rbxv\rbxv\bin\Debug\rbxv.pdb
+C:\Users\luke\source\repos\rbxv\rbxv\obj\Debug\rbxv.csproj.AssemblyReference.cache
+C:\Users\luke\source\repos\rbxv\rbxv\obj\Debug\rbxv.csproj.SuggestedBindingRedirects.cache
+C:\Users\luke\source\repos\rbxv\rbxv\obj\Debug\rbxv.csproj.CoreCompileInputs.cache
+C:\Users\luke\source\repos\rbxv\rbxv\obj\Debug\rbxv.exe
+C:\Users\luke\source\repos\rbxv\rbxv\obj\Debug\rbxv.pdb
+C:\Users\luke\source\repos\rbxv\rbxv\bin\Debug\System.Drawing.Common.dll
+C:\Users\luke\source\repos\rbxv\rbxv\obj\Debug\rbxv.csproj.CopyComplete
+C:\Users\luke\source\repos\rbxv\rbxv\bin\Debug\ImageProcessor.dll
+C:\Users\luke\source\repos\rbxv\rbxv\bin\Debug\System.ValueTuple.dll
+C:\Users\luke\source\repos\rbxv\rbxv\bin\Debug\ImageProcessor.xml
+C:\Users\luke\source\repos\rbxv\rbxv\bin\Debug\System.ValueTuple.xml
